@@ -1,4 +1,6 @@
-# BLiqNet
+![image](https://github.com/user-attachments/assets/52360cb2-f928-4f80-906f-d63393997274)
+
+# BLiqNet: Bidirectional Liquid Neural Network
 
 To create a new environment with **Python 3.10.12** in Anaconda and install the required libraries, follow these steps:
 
