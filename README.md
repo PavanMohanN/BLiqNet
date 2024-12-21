@@ -4,10 +4,13 @@
 
 ## Overview
 
-BLiqNet (Bidirectional Liquid Neural Network) is a cutting-edge model designed for predicting and reconstructing concrete compressive strength. This model leverages the power of liquid neural networks, which combine the flexibility of recurrent neural networks with continuous-time differential equations. The bidirectional design enables the model to make predictions both forward (from input features to output) and backward (from output back to the original features).
+BLiqNet (Bidirectional Liquid Neural Network) represents a pioneering approach in deep learning, merging the adaptability of liquid neural networks with a bidirectional flow structure for predicting and reconstructing concrete compressive strength. This state-of-the-art model leverages the power of continuous-time differential equations, allowing for dynamic, real-time learning from complex material datasets. Its bidirectional design makes it the first of its kind to not only predict concrete compressive strength from input features like cement, water, and aggregates but also reconstruct the original mix from the desired output.
 
-This model is specifically trained to predict the compressive strength of concrete from various constituent materials and conditions, such as the amount of cement, water, and aggregates.
+What sets BLiqNet apart is its ability to seamlessly perform both forward and backward predictions with a single unified model. In forward mode, it predicts the compressive strength of concrete from the material proportions, a task traditionally tackled by regression models. In backward mode, it goes further by reconstructing the original mix proportions from a given compressive strength, a unique feature that opens up a new realm of possibilities for optimization in material science.
 
+By utilizing liquid neural networks, which model the system as a set of continuous differential equations, BLiqNet adds a dynamic, time-sensitive component that captures the complex, time-varying relationships between inputs and outputs. This approach is particularly well-suited for problems in which traditional neural networks fall short, providing more precise and adaptive learning capabilities.
+
+The bidirectional structure enhances the model's versatility, making it ideal for practical applications in industries such as construction, where engineers often need to both predict material outcomes and fine-tune mix designs based on performance targets.
 ## Features
 
 - **Bidirectional Neural Network**: BLiqNet allows for both forward and backward predictions. 
