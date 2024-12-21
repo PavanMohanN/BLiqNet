@@ -2,6 +2,8 @@
 
 # BLiqNet: Bidirectional Liquid Neural Network
 
+# List of dependencies and their versions required to run BLiqNet are mentioned below
+
 To create a new environment with **Python 3.10.12** in Anaconda and install the required libraries, follow these steps:
 
 ### Step 1: Create a New Environment with Python 3.10.12
