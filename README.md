@@ -280,3 +280,20 @@ conda deactivate
    ```
 
 This should set up your environment with Python 3.10.12 and the necessary libraries.
+
+
+---
+
+
+`Created in Dec 2024`
+
+`@author: Pavan Mohan Neelamraju`
+
+`Affiliation: Indian Institute of Technology Madras`
+
+**Email**: npavanmohan3@gmail.com
+
+**Personal Website 🔴🔵**: [[pavanmohan.netlify.app](https://pavanmohan.netlify.app/)]
+
+
+---
