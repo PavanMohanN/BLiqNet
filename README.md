@@ -285,7 +285,6 @@ This should set up your environment with Python 3.10.12 and the necessary librar
 ---
 
 
-`Created in Dec 2024`
 
 `@author: Pavan Mohan Neelamraju`
 
